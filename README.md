@@ -1,4 +1,4 @@
-# Object-Detection
+[# Object-Detection
 Image Detection with YOLO & 🗣️ Text-to-Speech
 
 This project combines object detection using YOLO with text-to-speech (TTS) capabilities to create an assistive system that can detect objects in images or video streams and narrate the detected results aloud.
@@ -28,3 +28,4 @@ Text-to-Speech: pyttsx3 / gTTS / any chosen TTS library
 Programming Language: Python
 
 Optional: OpenCV (for video stream handling & visualization)
+](https://gemini.google.com/share/35e64964095d)
